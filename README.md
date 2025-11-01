@@ -1,6 +1,7 @@
 # 🔐 Vaultify – Password Manager (Frontend)
 
 **Live Site:** https://vaultify-frontend-mu.vercel.app/
+
 **Backend Repository:** https://github.com/bhavyanatani/Vaultify-Backend
 
 Vaultify is a secure and modern password manager built with Next.js that allows users to safely store, manage, and access their passwords with encryption and authentication.
