@@ -58,24 +58,6 @@ Visit http://localhost:3000 to see the app running.
 
 ---
 
-## 🧱 Folder Structure
-
-vaultify-frontend/
-│
-├── public/              → Static assets  
-├── src/
-│   ├── components/      → Reusable UI components  
-│   ├── pages/           → Next.js pages (login, signup, dashboard)  
-│   ├── styles/          → Tailwind and global CSS  
-│   ├── utils/           → Helper functions and API handlers  
-│   └── store/           → State management (if applicable)  
-│
-├── .env.local           → Environment variables  
-├── package.json  
-└── README.md
-
----
-
 ## 🌐 Deployment
 
 This project is deployed on Vercel.  
