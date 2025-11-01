@@ -25,16 +25,7 @@ Frontend:
 - Next.js (React Framework)
 - Tailwind CSS for styling
 - Axios for API calls
-- Zustand / Context API for state management (if applicable)
-
-Backend:
-- Node.js + Express.js
-- MongoDB with Mongoose
-- CryptoJS for encryption
-- JWT for authentication
-(Backend repo linked above)
-
----
+- Context API for state management
 
 ## ⚙️ Getting Started
 
