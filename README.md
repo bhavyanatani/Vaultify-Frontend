@@ -31,7 +31,7 @@ Frontend:
 ## ⚙️ Getting Started
 
 1️⃣ Clone the Repository  
-git clone https://github.com/yourusername/vaultify-frontend.git  
+git clone https://github.com/yourusername/Vaultify-Frontend.git  
 cd vaultify-frontend  
 
 2️⃣ Install Dependencies  
@@ -39,9 +39,8 @@ npm install
 
 3️⃣ Setup Environment Variables  
 Create a .env.local file in the root directory and add:  
-NEXT_PUBLIC_API_BASE_URL=https://vaultify-backend.onrender.com  
+NEXT_PUBLIC_API_BASE_URL=<your-backend-url-or-localhost>
 
-(Replace with your deployed backend URL or localhost for development.)
 
 4️⃣ Run the Development Server  
 npm run dev  
